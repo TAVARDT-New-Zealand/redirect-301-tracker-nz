@@ -49,3 +49,7 @@ For full web verification and deep redirect chain inspections:
 ## Technical SEO and Site Migration Advisory
 
 For platforms operating across New Zealand under W3C Standards and NZ Digital Performance Guidelines, contact **TAVARDT New Zealand**.
+
+***
+
+© 2026 TAVARDT. All rights reserved.
