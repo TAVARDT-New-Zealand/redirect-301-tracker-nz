@@ -1,14 +1,13 @@
 # HTTP 301/302 Redirect and Hop Chain Auditor
 
 [![Redirect 301 Tracker](https://img.shields.io/badge/TAVARDT-Redirect%20301-5b3cf5.svg)](https://tools.tavardt.com/nz/redirect-checker/)
-[![Jurisdiction](https://img.shields.io/badge/Jurisdiction-New%20Zealand-00C853.svg)](https://ag.tavardt.com/nz/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Audits redirect paths, infinite loop detection, link equity conservation, and crawl efficiency in New Zealand.
 
-Developed and maintained by the digital systems and crawl optimization division of **[TAVARDT New Zealand](https://ag.tavardt.com/nz/)**.
+Developed and maintained by the digital systems and crawl optimization division of **TAVARDT New Zealand**.
 
----
+***
 
 ## HTTP Redirect and Hop Chain Audit Capabilities
 
@@ -18,7 +17,7 @@ Developed and maintained by the digital systems and crawl optimization division 
 * **Mixed Protocol Verification**: Identification of insecure intermediary downgrades from HTTPS to HTTP.
 * **Redirect Efficiency Health Score**: Quantitative 0 to 100 score with prioritized technical remediation steps.
 
----
+***
 
 ## Installation and Execution
 
@@ -33,20 +32,20 @@ python redirect_tracker.py https://company.co.nz
 To output results in structured JSON format:
 
 ```bash
-python redirect_tracker.py https://company.co.nz --json
+python redirect_tracker.py https://company.co.nz -json
 ```
 
----
+***
 
 ## Comprehensive Web Diagnostic
 
 For full web verification and deep redirect chain inspections:
 
-* **[Official Redirect Checker Tool](https://tools.tavardt.com/nz/redirect-checker/)**
-* **[TAVARDT New Zealand Enterprise Portal](https://ag.tavardt.com/nz/)**
+* **Official Redirect Checker Tool**
+* **TAVARDT New Zealand Enterprise Portal**
 
----
+***
 
 ## Technical SEO and Site Migration Advisory
 
-For platforms operating across New Zealand under W3C Standards and NZ Digital Performance Guidelines, contact **[TAVARDT New Zealand](https://ag.tavardt.com/nz/contact/)**.
+For platforms operating across New Zealand under W3C Standards and NZ Digital Performance Guidelines, contact **TAVARDT New Zealand**.
