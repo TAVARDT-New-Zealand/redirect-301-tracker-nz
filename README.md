@@ -6,8 +6,6 @@
 
 Audits redirect paths, infinite loop detection, link equity conservation, and crawl efficiency in New Zealand.
 
-Developed and maintained by the digital systems and crawl optimization division of **TAVARDT**.
-
 ***
 
 ## HTTP Redirect and Hop Chain Audit Capabilities
@@ -38,15 +36,6 @@ python redirect_tracker.py https://company.co.nz -json
 
 ***
 
-## Comprehensive Web Diagnostic
-
-For full web verification and deep redirect chain inspections:
-
-* **Official Redirect Checker Tool**
-* **TAVARDT Enterprise Portal**
-
-***
-
 ## Technical SEO and Site Migration Advisory
 
 For platforms operating across New Zealand under W3C Standards and NZ Digital Performance Guidelines, contact **TAVARDT**.
@@ -62,7 +51,7 @@ For platforms operating across New Zealand under W3C Standards and NZ Digital Pe
 ***
 
 ### License
-Released under the MIT License. See [LICENSE](LICENSE) for full details.
+Released under the MIT License.
 
 ***
 
